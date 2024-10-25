@@ -16,7 +16,7 @@ module array_mult (
     input  wire       rst_n     // reset_n - low to reset
 );
     wire [3:0] m=ui_in[7:4];
-    wire [3:0] m=ui_in[3:0];
+    wire [3:0] q=ui_in[3:0];
     wire [7:0] p;
     wire [3:0] s0, s1, s2, s3, s4;
     wire [3:0] c0, c1, c2, c3, c4;
