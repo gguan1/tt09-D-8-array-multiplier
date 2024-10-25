@@ -6,6 +6,13 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
+## Array Multiplier
+
+A 4 bit muliplier that outputs 8 bit result.
+Author: Xiaoyu Guan, Andy Wu
+        xg2523 cw4483
+        Lab D 8
+
 
 ## How it works
 
@@ -20,8 +27,6 @@ The subsequent rows of partial products (mp1, mp2, and mp3) are added together r
 Final Product:
 After the partial products are added in the stages using the full adders, the final product is formed.
 The final result, p, is an 8-bit number that represents the product of the 4-bit multiplicand and the 4-bit multiplier.
-
-
 
 ## How to test
 
