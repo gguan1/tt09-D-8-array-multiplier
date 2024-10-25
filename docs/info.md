@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-![Alt text](D:/multiplex.png)
+![Alt text]([D:/multiplex.png](https://github.com/gguan1/tt09/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-25%20093457.png))
 multiplex
 
 ## How to test
