@@ -27,8 +27,9 @@ The final result, p, is an 8-bit number that represents the product of the 4-bit
 
 The 8-bit input represents two 4_bit inputs, the 8-bit output should be the product(all unsigned binary numbers)
 For example:
-
+input:00010010
+This means the input m=0001,q=0010. The operation is (in decimal) 1*2, result p=1*2=2. So output P should be 00000010.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
