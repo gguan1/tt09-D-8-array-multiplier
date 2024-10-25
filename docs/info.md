@@ -10,10 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+![Alt text](D:/multiplex.png)
+multiplex
 
 ## How to test
 
-Explain how to use your project
+The 8-bit input represents two 4_bit inputs, the 8-bit output should be the product(all unsigned binary numbers)
 
 ## External hardware
 
