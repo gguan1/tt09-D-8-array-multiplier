@@ -27,7 +27,7 @@ The subsequent rows of partial products (mp1, mp2, and mp3) are added together r
 Final Product:
 After the partial products are added in the stages using the full adders, the final product is formed.
 The final result, p, is an 8-bit number that represents the product of the 4-bit multiplicand and the 4-bit multiplier.
-![multiplier circuit](G:\我的云端硬盘\微信图片_20241101114801.jpg)
+![multiplier circuit](微信图片_20241101114801.jpg)
 
 ## How to test
 
